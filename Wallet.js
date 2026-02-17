@@ -1,7 +1,7 @@
 
 const readlineSync = require('readline-sync');
 
-const infuraUrl = 'https://mainnet.infura.io/v3/...';
+
 const { Web3 } = require('web3');
 
 
