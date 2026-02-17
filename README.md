@@ -1,4 +1,4 @@
-# Metamask-developer-wallet
+i# Metamask-developer-wallet
 Script realizado con nodejs para utilizar con api key de Infura con Metamask developer el servicio de creación y transferencia e almacenamiento y consulta del servicio de la red ERC20 de Ethereum
 
 
@@ -7,10 +7,12 @@ Script realizado con nodejs para utilizar con api key de Infura con Metamask dev
 
 
 ```bash
-yes | pkg update && yes | pkg upgrade && yes | pkg install nodejs && npm install web3 && npm install readline-sync
+yes | pkg update && yes | pkg upgrade && yes | pkg install nodejs && yes | pkg install git && npm install web3 && npm install readline-sync
 ```
 
-
+```bash
+git clone https://github
+```
 
 
 
