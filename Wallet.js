@@ -29,7 +29,7 @@ console.log('\x1b[36m[1]\x1b[0m Crear Wallet ETH-ERC2\n');
 console.log('\x1b[36m[2]\x1b[0m Consultar saldo ETH-ERC20\n');
 console.log('\x1b[36m[3]\x1b[0m Transferencia T2T-ERC20\n');
 console.log('\x1b[36m[4]\x1b[0m Red XETH de ETH');
-
+console.log('\x1b[36m[5]\x1b[0m Salir de XETH');
 
 
 
