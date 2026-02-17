@@ -231,7 +231,7 @@ const { Web3 } = require('web3');
 
 // 1. Configuración de Infura y Cuenta
 // Reemplaza con tu URL de Infura (Mainnet) y tus datos reales
-const INFURA_URL = 'https://mainnet.infura.io/v3/53271a57ae164d8cbced4aaf2e817185';
+const INFURA_URL = 'https://mainnet.infura.io/v3/...';
 const web3 = new Web3(new Web3.providers.HttpProvider(INFURA_URL));
 
 
