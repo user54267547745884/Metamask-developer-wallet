@@ -1,7 +1,7 @@
 
 const readlineSync = require('readline-sync');
 
-const infuraUrl = 'https://mainnet.infura.io/v3/53271a57ae164d8cbced4aaf2e817185';
+const infuraUrl = 'https://mainnet.infura.io/v3/...';
 const { Web3 } = require('web3');
 
 
@@ -58,7 +58,7 @@ const readlineSync = require('readline-sync');
 
  const { Web3 } = require('web3'); // Importar web3
 
- const infuraUrl = 'https://mainnet.infura.io/v3/53271a57ae164d8cbced4aaf2e817185';
+ const infuraUrl = 'https://mainnet.infura.io/v3/...';
 
 
 const web3_0 = new Web3(infuraUrl);
@@ -151,7 +151,7 @@ const direccion_publica_a_consultar = readlineSync.question('\n\n\x1b[36m[-]\x1b
 // const { Web3 } = require('web3');
 
 // 1. Configura tu proveedor de Infura (Mainnet o Testnet)
-const infuraUrl = 'https://mainnet.infura.io/v3/53271a57ae164d8cbced4aaf2e817185';
+const infuraUrl = 'https://mainnet.infura.io/v3/...';
 const web3_1 = new Web3(new Web3.providers.HttpProvider(infuraUrl));
 
 // 2. Dirección a consultar
