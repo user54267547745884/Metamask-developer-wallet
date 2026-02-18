@@ -17,11 +17,7 @@ git clone https://github.com/user54267547745884/Metamask-developer-wallet.git
 ```bash
 cd Metamask-developer-wallet && node Wallet.js
 ```
-
-
-<a href="https://freeimage.host/i/q2TyvRf"><img src="https://iili.io/q2TyvRf.md.jpg" alt="q2TyvRf.md.jpg" border="0"></a>
-
-
+<a href="https://freeimage.host/"><img src="https://iili.io/q2uSs6B.jpg" alt="q2uSs6B.jpg" border="0"></a>
 
 
 
