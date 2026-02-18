@@ -15,7 +15,7 @@ git clone https://github.com/user54267547745884/Metamask-developer-wallet.git
 ```
 
 ```bash
-cd Metamask-developer-wallet && node wallet.js
+cd Metamask-developer-wallet && node Wallet.js
 ```
 
 <h3>URL VIDEO TUTORIAL PARA OBTENER API KEY INFURA PARA BILLETERA ETHEREUM CON RED ERC20</h3>
