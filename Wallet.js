@@ -447,7 +447,18 @@ console.log(`\n\n🏁Transacción exitosa🏁\n\n\n\n\📄Información detallada
 
 
     } catch (error) {
-        console.error("❎Error en la transacción❎", error);
+
+
+     // Codigo para conocer error en caso de un error en la transacción 
+      //  console.error("❎Error en la transacción❎", error);
+   
+    
+    console.error("❎Error en la transacción❎");
+   
+    
+    
+    
+    
     }
 }
 
