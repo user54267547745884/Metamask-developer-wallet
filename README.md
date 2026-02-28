@@ -7,15 +7,26 @@ Script realizado con nodejs para utilizar con api key de Infura con Metamask dev
 
 
 ```bash
-yes | pkg update && yes | pkg upgrade && yes | pkg install nodejs && yes | pkg install git && npm install web3 && npm install readline-sync
+yes | pkg update && yes | pkg upgrade && yes | pkg install nodejs && yes | pkg install git
 ```
+
+```bash
+npm install web3 readline-sync axios
+```
+
+
 
 ```bash
 git clone https://github.com/user54267547745884/Metamask-developer-wallet.git
 ```
 
 ```bash
-cd Metamask-developer-wallet && node Wallet.js
+cd Metamask-developer-wallet
+```
+
+<h2>EJECUCIÓN</h2>
+```bash
+node Wallet.js
 ```
 <a href="https://freeimage.host/"><img src="https://iili.io/q2uSs6B.jpg" alt="q2uSs6B.jpg" border="0"></a>
 
